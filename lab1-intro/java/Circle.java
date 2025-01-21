@@ -38,7 +38,7 @@ class Circle {
     // System.out.println("dbl called"); // BAD!
     return Math.pow(b,2);
   }
-
+//change1
   // public void printS(String[] args) {
   //   if(shouldPaintS(10, 10, 10)){
   //     System.out.println("Painting");
